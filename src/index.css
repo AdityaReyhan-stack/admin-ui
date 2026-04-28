@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  /* Soal 01: Menambahkan warna Special Red2 */
+  --color-special-red2: #b83016;
+}
