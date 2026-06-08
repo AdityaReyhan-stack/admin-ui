@@ -1,6 +1,6 @@
 import React from "react";
 import UserCard from "./UserCard";
-import { staticPosts } from "./dataPosts"; // Import data ES6
+import { staticPosts } from "../dataPosts"; // Import data ES6
 
 function Exercise() {
   return (
