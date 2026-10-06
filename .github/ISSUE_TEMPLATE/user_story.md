@@ -1,0 +1,9 @@
+## User Story
+Sebagai [role]
+Saya membutuhkan [fitur]
+Agar [tujuan]
+
+## Acceptance Criteria
+Given ...
+When ...
+Then ...
